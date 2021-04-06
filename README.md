@@ -1,3 +1,4 @@
+![recruitment dashboard screenshot](https://user-images.githubusercontent.com/23224784/113783609-fff5ea80-9701-11eb-97ed-434bccc390bd.jpg)
 # Power-BI-Recruitment-Dashboard
 Power BI Recruitment Dashboard with KPIs
 
